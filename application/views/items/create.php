@@ -56,7 +56,7 @@
           <div class="form-group">
             <label class="control-label" for="location">Location</label>
             <div class="input-group mb-3">
-              <input id="location" type="text" class="form-control" placeholder="Select the category name" aria-label="location" aria-describedby="basic-addon2">
+              <input id="location" type="text" class="form-control" placeholder="A10" aria-label="location" aria-describedby="basic-addon2">
               <div class="input-group-append">
                 <button id="locations" class="btn btn-outline-primary" type="button">Select</button>
               </div>
@@ -65,7 +65,7 @@
           <div class="form-group">
             <label class="control-label" for="user">User</label>
             <div class="input-group mb-3">
-              <input id="user" type="text" class="form-control" placeholder="Select the category name" aria-label="user" aria-describedby="basic-addon2">
+              <input id="user" type="text" class="form-control" placeholder="Benjamin BALET" aria-label="user" aria-describedby="basic-addon2">
               <div class="input-group-append">
                 <button id="users" class="btn btn-outline-primary" type="button">Select</button>
               </div>
@@ -74,7 +74,7 @@
           <div class="form-group">
             <label class="control-label" for="owner">Owner</label>
             <div class="input-group mb-3">
-              <input id="owner" type="text" class="form-control" placeholder="Select the category name" aria-label="owner" aria-describedby="basic-addon2">
+              <input id="owner" type="text" class="form-control" placeholder="PNC" aria-label="owner" aria-describedby="basic-addon2">
               <div class="input-group-append">
                 <button id="owners" class="btn btn-outline-primary" type="button">Select</button>
               </div>
@@ -83,19 +83,16 @@
         </div>
         <div class="col-4">
           <div class="form-group">
-            <label for="sel1">Condiction:</label>
+            <label for="sel1">Condition:</label>
             <select class="form-control" id="sel1">
-              <option>News</option>
+              <option>New</option>
               <option>Fair</option>
-              <option>Demaged</option>
+              <option>Damaged</option>
               <option>Broken</option>
             </select>
           </div>
         </div>
       </div>
-
-
-
     </form>
   </div>
 </div>

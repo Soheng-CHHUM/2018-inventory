@@ -61,54 +61,7 @@
   </div>
 
 </div>
-<!-- <div id="frmConfirmDelete" class="modal hide fade" tabindex="-1" role="dialog">
-	<div class="modal-dialog" role="document">
-    <div class="modal-content">
-	    <div class="modal-header">
-				<h5 class="modal-title">Delete confirmation</h5>
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-					<span aria-hidden="true">&times;</span>
-				</button>
-	    </div>
-	    <div class="modal-body">
-	        <p>You are going to delete a user.</p>
-	        <p>Are you sure that you want to perform this action?</p>
-	    </div>
-	    <div class="modal-footer">
-	        <a href="#" class="btn btn-danger" id="lnkDeleteUser">Yes</a>
-	        <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
-	    </div>
-		</div>
-	</div>
-</div>
 
-<div id="frmResetPwd" class="modal hide fade" tabindex="-1" role="dialog">
-	<div class="modal-dialog" role="document">
-		<div class="modal-content">
-	    <div class="modal-header">
-				<h5 class="modal-title">Reset a password</h5>
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-					<span aria-hidden="true">&times;</span>
-				</button>
-	    </div>
-	    <div class="modal-body">
-				<form id="formResetPwd" method="POST">
-				    <label for="password">Password</label>
-						<div class="input-group">
-					    <input type="password" name="password" id="password" required />
-							<div class="input-group-append">
-					    	<button type="send" class="btn btn-primary">Reset</button>
-							</div>
-						</div>
-				</form>
-	    </div>
-	    <div class="modal-footer">
-	       <button class="btn btn-secondary" data-dismiss="modal">Cancel</button>
-	    </div>
-		</div>
-	</div>
-</div>
- -->
 <link href="<?php echo base_url();?>assets/DataTable/DataTables-1.10.16/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 <script type="text/javascript" src="<?php echo base_url();?>assets/DataTable//DataTables-1.10.16/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url();?>assets/DataTable//DataTables-1.10.16/js/dataTables.bootstrap4.min.js"></script>
