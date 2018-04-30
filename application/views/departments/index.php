@@ -8,7 +8,7 @@
  */
 ?>
 
-<div id="container">
+<div id="container" class="container">
 	<div class="row-fluid">
 		<div class="col-12">
 
